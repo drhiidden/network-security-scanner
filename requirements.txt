@@ -1,0 +1,20 @@
+# Librerías principales para escaneo de red
+scapy>=2.5.0
+python-nmap>=0.7.1
+
+# Librerías para interfaz y presentación
+rich>=13.7.0
+colorama>=0.4.6
+
+# Librerías del sistema
+psutil>=5.9.8
+netifaces>=0.11.0
+
+# Librerías para análisis web y DNS
+requests>=2.31.0
+dnspython>=2.4.2
+python-whois>=0.8.0
+
+# Librerías adicionales para funcionalidades avanzadas
+urllib3>=2.0.0
+cryptography>=41.0.0

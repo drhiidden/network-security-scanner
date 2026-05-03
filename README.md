@@ -1,13 +1,24 @@
-# 🔍 Network Security Scanner - Educational Tool
+![network-security-scanner banner](docs/banner.png)
 
-## 🎓 Proyecto Académico de Ingeniería Informática
+# network-security-scanner
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
+[![Educational](https://img.shields.io/badge/Use-Educational%20Only-red.svg)](#advertencia-ética)
+![visitors](https://komarev.com/ghpvc/?username=drhiidden&repo=network-security-scanner&color=00ff88&style=flat-square)
+
+**Know your attack surface.**
+
+> Solo para uso en redes propias o con autorización explícita.
+
+## Proyecto Académico — Red Team & Network Security
 
 **Herramienta educativa para el aprendizaje de técnicas de seguridad de red y red team, desarrollada siguiendo estándares de la industria y mejores prácticas de ingeniería.**
 
 ### 📋 Información del Proyecto
 
-- **Autor:** [Tu Nombre]
-- **Universidad:** [Nombre de tu Universidad]
+- **Autor:** drhiidden
+- **Universidad:** Universidad
 - **Curso:** Seguridad Informática / Red Team
 - **Fecha:** 2025
 - **Licencia:** MIT
@@ -251,11 +262,15 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 📞 Contacto
 
-- **Autor:** [Tu Nombre]
-- **Email:** [tu.email@universidad.edu]
-- **Universidad:** [Nombre de tu Universidad]
+- **Autor:** drhiidden
+- **Email:** https://github.com/drhiidden
+- **Universidad:** Universidad
 - **Curso:** Seguridad Informática
 
 ---
 
 **🔒 Recuerda: La seguridad informática es una responsabilidad ética. Usa estas herramientas para aprender y proteger, no para dañar.**
+
+## Metodología
+
+Desarrollado con [HCP (Human-Code-AI Protocol)](https://github.com/haletheia/human-code-ai-protocol) — protocolo git-native para Context Engineering.

@@ -6,7 +6,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![views](https://komarev.com/ghpvc/?username=lab-network-security-scanner&label=views&color=0e75b6)](https://github.com/drhiidden/network-security-scanner)
+[![views](https://komarev.com/ghpvc/?username=drhiidden&repo=network-security-scanner&label=views&color=0e75b6)](https://github.com/drhiidden/network-security-scanner)
 
 **Qué es**: Scanner Python que detecta malware mediante análisis de comportamiento de tráfico de red (sin firmas estáticas). Identifica patrones sospechosos: port scanning, beaconing, data exfiltration.
 
